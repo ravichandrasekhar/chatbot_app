@@ -1,0 +1,62 @@
+===============================
+Humera AI - Mini Handbook
+===============================
+ 
+1. Company Overview
+-------------------
+Humera AI is a technology company focused on artificial intelligence education, consulting, and product development.
+Its slogan is "human new era with AI".
+The company develops AI-powered products, provides training in data science, machine learning, and AI,
+and offers consulting services in the analytics domain.
+Humera AI believes in making AI education accessible, practical, and globally relevant.
+ 
+2. Product Features
+-------------------
+Our AI learning platform includes:
+- Interactive simulations of algorithms like Random Forest, SVM, and XGBoost.
+- Courses on Data Science, Machine Learning, Probability, and Statistics.
+- Generative AI integration for real-world projects.
+- A simple, modern UI designed for ease of navigation.
+- Progress tracking dashboards for learners.
+- AI-driven recommendation systems that suggest learning paths.
+ 
+3. Support
+----------
+For support, learners can reach out through:
+- Email: support@humeraai.com
+- Community discussion forums
+- Weekly live sessions with instructors
+ 
+Response time for emails is typically within 24 hours on weekdays.
+Priority support is available for enterprise clients.
+ 
+4. Training Schedule
+--------------------
+The "Data Science with Generative AI" course runs for 60 days.
+Classes are conducted online, in-person, or hybrid depending on student preference.
+Each module contains theory sessions, practical exercises, and a mini-project.
+The capstone project at the end ensures professional project delivery skills.
+ 
+In addition, there are shorter bootcamps:
+- Python for Data Analysis (2 weeks)
+- Probability and Statistics for Data Science (3 weeks)
+- Introduction to Machine Learning (4 weeks)
+ 
+5. Frequently Asked Questions (FAQ)
+-----------------------------------
+Q: How do I enroll in a course?
+A: Visit the official Humera AI website and register under the "Courses" section.
+ 
+Q: Do I need prior programming knowledge?
+A: Basic Python knowledge is recommended, but beginners can still follow.
+ 
+Q: Is there a certificate?
+A: Yes, all learners receive a verified certificate upon completion of the course.
+ 
+Q: Do you provide placement support?
+A: Yes, we offer career guidance, resume workshops, and connections to hiring partners.
+ 
+6. Contact Information
+----------------------
+Website: www.humera.ai
+Email: info@humera.ai
